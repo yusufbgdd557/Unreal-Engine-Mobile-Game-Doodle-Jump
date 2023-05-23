@@ -2,7 +2,7 @@
  
 #This project showcases a mobile game called "Doodle Jump," developed using Unreal Engine 4
 
-#Game Screenshot 
+#Game Screenshots
 
 Game in action
 
